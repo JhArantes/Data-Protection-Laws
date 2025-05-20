@@ -1,209 +1,204 @@
 
-# 📜 **Lei Geral de Proteção de Dados (LGPD): Privacidade e Segurança na Era Digital**  
+# 📜 **General Data Protection Law (LGPD): Privacy and Security in the Digital Age**  
 
-## 🔍 **Introdução**  
+## 🔍 **Introduction**  
 
-A proteção de dados pessoais tornou-se um tema **essencial** no mundo digital. A **LGPD** (Lei Geral de Proteção de Dados) é um marco regulatório que define como empresas e órgãos públicos devem tratar informações pessoais, garantindo **privacidade** e **segurança**.  
+The protection of personal data has become an **essential** topic in the digital world. The **LGPD** (General Data Protection Law) is a regulatory framework that defines how companies and public entities must handle personal information, ensuring **privacy** and **security**.  
 
-📌 **Neste trabalho, abordamos:**  
-- 🛡️ A importância da segurança de dados;  
-- 🔒 O que são **dados pessoais** e **sensíveis**;  
-- ⚖️ A base legal e histórica da privacidade;  
-- 🌐 O Marco Civil da Internet e sua relação com a LGPD.  
-
----  
-
-## 1️⃣ **🛡️ Por que a Segurança de Dados é Importante?**  
-
-Proteger dados vai além de evitar vazamentos:  
-- ✅ **Preservar** a integridade das informações;  
-- 🔐 Garantir que só **pessoas autorizadas** acessem;  
-- 📜 Cumprir **leis** e normas corporativas.  
-
-### 🏥 **Exemplo Prático: Farmácias e CPF**  
-Ao comprar um remédio, muitas farmácias pedem **CPF**. Esse dado pode revelar:  
-- 💊 Seus **hábitos de consumo**;  
-- 🏥 **Histórico de saúde** (doenças, medicamentos).  
-
-⚠️ **Riscos:**  
-- 📉 Dados vendidos sem consentimento;  
-- 🕵️♂️ Exposição a **golpistas**.  
-
-A **LGPD** existe para evitar esses abusos!  
+📌 **In this work, we cover:**  
+- 🛡️ The importance of data security;  
+- 🔒 What **personal data** and **sensitive data** are;  
+- ⚖️ The legal and historical basis of privacy;  
+- 🌐 The Civil Rights Framework for the Internet and its relationship with the LGPD.  
 
 ---  
 
-## 2️⃣ **🔍 Dados Pessoais vs. Sensíveis**  
+## 1️⃣ **🛡️ Why is Data Security Important?**  
 
-### 📝 **Dados Pessoais**  
-Qualquer informação que **identifique** alguém:  
-- 👤 Nome, RG, CPF;  
-- 🏠 Endereço, e-mail;  
-- 🛒 Hábitos de consumo.  
+Protecting data goes beyond preventing leaks:  
+- ✅ **Preserve** the integrity of information;  
+- 🔐 Ensure only **authorized individuals** can access it;  
+- 📜 Comply with **laws** and corporate norms.  
 
-### 🔥 **Dados Sensíveis**  
-Informações que, se vazadas, podem **prejudicar** o titular:  
-- 🧬 Raça, religião, orientação sexual;  
-- 🧠 Opinião política;  
-- 🧬 Dados genéticos/biométricos.  
+### 🏥 **Practical Example: Pharmacies and CPF**  
+When purchasing medicine, many pharmacies request a **CPF**. This data can reveal:  
+- 💊 Your **consumption habits**;  
+- � **Health history** (diseases, medications).  
 
-🚨 **Exigem proteção EXTRA!**  
+⚠️ **Risks:**  
+- 📉 Data sold without consent;  
+- 🕵️♂️ Exposure to **scammers**.  
+
+The **LGPD** exists to prevent such abuses!  
 
 ---  
 
-## 3️⃣ **⚖️ História da Proteção de Dados**  
+## 2️⃣ **🔍 Personal Data vs. Sensitive Data**  
 
-| 📅 **Ano**         | 🏛️ **Marco Legal** |
+### 📝 **Personal Data**  
+Any information that **identifies** an individual:  
+- 👤 Name, ID, CPF;  
+- 🏠 Address, email;  
+- 🛒 Consumption habits.  
+
+### 🔥 **Sensitive Data**  
+Information that, if leaked, could **harm** the individual:  
+- 🧬 Race, religion, sexual orientation;  
+- 🧠 Political opinions;  
+- 🧬 Genetic/biometric data.  
+
+🚨 **Requires EXTRA protection!**  
+
+---  
+
+## 3️⃣ **⚖️ History of Data Protection**  
+
+| 📅 **Year**         | 🏛️ **Legal Milestone** |
 |-------------------|-------------------|
-| **1948**          | Declaração Universal dos Direitos Humanos |
-| **1950**          | Convenção Europeia sobre Direitos Humanos |
-| **1981**          | Convenção sobre o Processamento Automático de Dados Pessoais |
-| **1995**          | Diretiva Europeia 95/46/EC |
-| **2002**          | Carta dos Direitos Fundamentais da União Europeia |
-| **2010**          | Consulta pública do MP sobre dados pessoais no Brasil |
-| **2011**          | Projeto de Lei 2126 (Marco Civil da Internet) |
-| **2012**          | Lei Carolina Dieckmann (crimes cibernéticos) |
-| **2013**          | Projeto de Lei 330 (proteção de dados pessoais) |
-| **2014**          | Marco Civil da Internet entra em vigor |
-| **2016**          | GDPR (Regulamento Geral de Proteção de Dados) |
-| **2016**          | Diretiva 2016/680 – Judiciário e Polícia |
-| **2016**          | Diretiva 2016/681 – Dados de passageiros (PNR) |
-| **2017**          | Tramitam PLs 5276/16 e 330/2013 |
-| **2018**          | Entra em vigor a GDPR na Europa |
-| **2018**          | Sancionada a LGPD no Brasil |
-| **2019**          | Criação da ANPD – Autoridade Nacional de Proteção de Dados |
-| **2019**          | Discussão da PEC 17 – proteção de dados como direito fundamental |
+| **1948**          | Universal Declaration of Human Rights |
+| **1950**          | European Convention on Human Rights |
+| **1981**          | Convention on the Automated Processing of Personal Data |
+| **1995**          | European Directive 95/46/EC |
+| **2002**          | Charter of Fundamental Rights of the European Union |
+| **2010**          | Public consultation by the MP on personal data in Brazil |
+| **2011**          | Bill 2126 (Civil Rights Framework for the Internet) |
+| **2012**          | Carolina Dieckmann Law (cybercrimes) |
+| **2013**          | Bill 330 (personal data protection) |
+| **2014**          | Civil Rights Framework for the Internet comes into force |
+| **2016**          | GDPR (General Data Protection Regulation) |
+| **2016**          | Directive 2016/680 – Judiciary and Police |
+| **2016**          | Directive 2016/681 – Passenger data (PNR) |
+| **2017**          | Pending Bills 5276/16 and 330/2013 |
+| **2018**          | GDPR comes into force in Europe |
+| **2018**          | LGPD enacted in Brazil |
+| **2019**          | Creation of ANPD – National Data Protection Authority |
+| **2019**          | Discussion of PEC 17 – data protection as a fundamental right |
 
-📜 A privacidade é um **direito humano fundamental**!  
-
----  
-
-## 4️⃣ **🌐 Marco Civil da Internet + LGPD**  
-
-O **Marco Civil (2014)** trouxe regras importantes:  
-- 🚫 Provedores não podem vazar dados;  
-- ⏳ Dados só podem ser guardados por **1 ano**;  
-- 📝 Termos de uso devem ser **claros**.  
-
-A **LGPD** complementa com:  
-- ✋ Direito de **excluir** dados;  
-- 🔍 Transparência no uso das informações.  
+📜 Privacy is a **fundamental human right**!  
 
 ---  
 
-## 🎯 **Conclusão**  
+## 4️⃣ **🌐 Civil Rights Framework for the Internet + LGPD**  
 
-A **LGPD** é um avanço para a **privacidade digital**, mas depende:  
-- 🏛️ Das empresas cumprirem a lei;  
-- 👥 Dos cidadãos **exigirem seus direitos**.  
+The **Civil Rights Framework (2014)** introduced key rules:  
+- 🚫 Providers cannot leak data;  
+- ⏳ Data can only be stored for **1 year**;  
+- 📝 Terms of use must be **clear**.  
 
-🔐 **Proteja seus dados – eles são sua identidade!**  
+The **LGPD** complements it with:  
+- ✋ Right to **delete** data;  
+- 🔍 Transparency in data usage.  
 
 ---  
 
-📚 **Referências**  
-- Lei nº 13.709/2018 (LGPD)  
-- Lei nº 12.965/2014 (Marco Civil da Internet)  
-- Declaração Universal dos Direitos Humanos (1948)  
+## 🎯 **Conclusion**  
 
+The **LGPD** is a step forward for **digital privacy**, but it depends on:  
+- 🏛️ Companies complying with the law;  
+- 👥 Citizens **demanding their rights**.  
 
+🔐 **Protect your data – it’s your identity!**  
 
+---  
+
+📚 **References**  
+- Law No. 13,709/2018 (LGPD)  
+- Law No. 12,965/2014 (Civil Rights Framework for the Internet)  
+- Universal Declaration of Human Rights (1948)  
 
 ---
 
-# 📜 GDPR – Regulamento Geral sobre Proteção de Dados (UE)  
+# 📜 GDPR – General Data Protection Regulation (EU)  
 
-## 🌍 **Aplicação e Escopo**  
-🔹 Aplica-se a organizações que:  
-- 🛒 Comercializam bens/serviços na UE (mesmo gratuitos).  
-- 📊 Processam dados de cidadãos europeus (clientes, parceiros ou funcionários).  
+## 🌍 **Scope and Applicability**  
+🔹 Applies to organizations that:  
+- 🛒 Market goods/services in the EU (even free ones).  
+- 📊 Process data of EU citizens (customers, partners, or employees).  
 
-## ⚖️ **Principais Obrigações**  
-### 1. **Base Legal para Tratamento**  
-   - ✅ Justificativas válidas: consentimento, contrato, obrigação legal, etc.  
-   - ⏳ Prazos de retenção e regras para transferência devem ser claros.  
+## ⚖️ **Key Obligations**  
+### 1. **Legal Basis for Processing**  
+   - ✅ Valid justifications: consent, contract, legal obligation, etc.  
+   - ⏳ Retention periods and transfer rules must be clear.  
 
-### 2. **🖊️ Controle de Consentimento**  
-   - ✍️ Deve ser **explícito** e **facilmente revogável**.  
-   - 🔄 Se não cumprir regras, novo consentimento é exigido.  
+### 2. **🖊️ Consent Control**  
+   - ✍️ Must be **explicit** and **easily revocable**.  
+   - 🔄 If non-compliant, new consent is required.  
 
-### 3. **🔒 Segurança e Prevenção**  
-   - 🛡️ Medidas obrigatórias:  
-     - **Confidencialidade** (👁️🗨️ só acessível a autorizados).  
-     - **Integridade** (✔️ dados precisos e não alterados).  
-     - **Disponibilidade** (💾 prevenção contra perda/acesso indevido).  
+### 3. **🔒 Security and Prevention**  
+   - 🛡️ Mandatory measures:  
+     - **Confidentiality** (👁️🗨️ accessible only to authorized parties).  
+     - **Integrity** (✔️ accurate and unaltered data).  
+     - **Availability** (💾 prevention against loss/unauthorized access).  
 
----
+---  
 
-# 📌 **Conceitos Fundamentais**  
+# 📌 **Fundamental Concepts**  
 
-## 🕵️ **DPO (Encarregado de Proteção de Dados)**  
-- 🎯 Função: Garantir conformidade com a GDPR.  
-- 📋 Principais tarefas:  
-  - 📜 Monitorar cumprimento da lei.  
-  - 📊 Gerenciar relatórios de impacto (DPIA).  
-  - 🚨 Comunicar vazamentos.  
-  - 🛠️ Implementar *Privacy by Design*.  
+## 🕵️ **DPO (Data Protection Officer)**  
+- � Role: Ensure GDPR compliance.  
+- 📋 Key tasks:  
+  - 📜 Monitor legal adherence.  
+  - 📊 Manage impact reports (DPIA).  
+  - 🚨 Report breaches.  
+  - 🛠️ Implement *Privacy by Design*.  
 
-## 🎯 **Direitos dos Titulares**  
-- 🔍 **Acesso** | ✏️ **Retificação** | 🗑️ **Exclusão** ("direito ao esquecimento").  
-- 🔄 **Portabilidade** (migrar dados entre serviços).  
-- ⚠️ **Oposição a decisões automatizadas** (ex.: algoritmos de crédito).  
+## 🎯 **Data Subject Rights**  
+- 🔍 **Access** | ✏️ **Rectification** | 🗑️ **Erasure** ("right to be forgotten").  
+- 🔄 **Portability** (transfer data between services).  
+- ⚠️ **Objection to automated decisions** (e.g., credit algorithms).  
 
-## 🤝 **Atores no Processamento**  
-| Papel | Responsabilidade |
-|-------|------------------|
-| **Controlador** 🏢 | Define como os dados são usados. |
-| **Processador** ⚙️ | Processa dados em nome do controlador (terceiros). |  
-- ⚠️ **O controlador é responsável mesmo por falhas do processador.**  
+## 🤝 **Actors in Processing**  
+| Role | Responsibility |  
+|-------|------------------|  
+| **Controller** 🏢 | Defines how data is used. |  
+| **Processor** ⚙️ | Processes data on behalf of the controller (third parties). |  
+- ⚠️ **The controller is liable even for processor failures.**  
 
-## 💰 **Sanções**  
-| Gravidade | Valor |  
+## 💰 **Penalties**  
+| Severity | Amount |  
 |-----------|-------|  
-| **Leve** | €10 mi ou 2% do faturamento global |  
-| **Grave** | €20 mi ou 4% do faturamento global |  
+| **Minor** | €10M or 2% of global revenue |  
+| **Major** | €20M or 4% of global revenue |  
 
----
+---  
 
-# 🇧🇷 LGPD (Lei Geral de Proteção de Dados)  
+# 🇧🇷 LGPD (General Data Protection Law)  
 
-## 🎯 **Objetivo**  
-- 🔒 Proteger privacidade e liberdade no tratamento de dados no Brasil.  
-- 📜 Inspirada na GDPR, mas adaptada ao contexto nacional.  
+## 🎯 **Objective**  
+- 🔒 Protect privacy and freedom in data processing in Brazil.  
+- 📜 Inspired by GDPR but adapted to the national context.  
 
-## 🔍 **Dados Pessoais vs. Sensíveis**  
-| Tipo | Exemplos |  
+## 🔍 **Personal Data vs. Sensitive Data**  
+| Type | Examples |  
 |------|----------|  
-| **Pessoais** | Nome, CPF, endereço, hábitos de consumo |  
-| **Sensíveis** | Raça, religião, saúde, orientação sexual |  
+| **Personal** | Name, CPF, address, consumption habits |  
+| **Sensitive** | Race, religion, health, sexual orientation |  
 
-## ⚙️ **Tratamento de Dados**  
-- 📥 Coleta → 📦 Armazenamento → 🔄 Compartilhamento → 🗑️ Exclusão.  
-- 📌 Princípios: **Finalidade específica**, **Transparência**, **Necessidade**.  
+## ⚙️ **Data Processing**  
+- 📥 Collection → 📦 Storage → 🔄 Sharing → 🗑️ Deletion.  
+- 📌 Principles: **Specific purpose**, **Transparency**, **Necessity**.  
 
-## 🎭 **Anonimização vs. Pseudonimização**  
-| Método | Definição | Aplica LGPD? |  
+## 🎭 **Anonymization vs. Pseudonymization**  
+| Method | Definition | LGPD Applies? |  
 |--------|-----------|--------------|  
-| **Anonimização** | Dados irreversivelmente dissociados do titular | ❌ Não |  
-| **Pseudonimização** | Dados protegidos por chaves controladas | ✅ Sim |  
+| **Anonymization** | Data irreversibly dissociated from the subject | ❌ No |  
+| **Pseudonymization** | Data protected by controlled keys | ✅ Yes |  
 
-## 🏛️ **ANPD (Autoridade Nacional de Proteção de Dados)**  
-- 🔍 Fiscaliza o cumprimento da LGPD.  
-- 📌 Competências:  
-  - 💸 Aplicar multas.  
-  - 🎓 Educar sobre proteção de dados.  
-  - 🌍 Cooperar com autoridades internacionais.  
+## 🏛️ **ANPD (National Data Protection Authority)**  
+- 🔍 Oversees LGPD compliance.  
+- 📌 Responsibilities:  
+  - 💸 Impose fines.  
+  - 🎓 Educate on data protection.  
+  - 🌍 Cooperate with international authorities.  
 
-## ⚠️ **Sanções da LGPD**  
-- ⚠️ Advertências.  
-- 💰 Multas (até **2% do faturamento**, limitado a **R$ 50 milhões**).  
-- 🔒 Bloqueio ou eliminação de dados.  
+## ⚠️ **LGPD Penalties**  
+- ⚠️ Warnings.  
+- 💰 Fines (up to **2% of revenue**, capped at **R$50 million**).  
+- 🔒 Data blocking or deletion.  
 
----
+---  
 
-# 🔚 **Conclusão**  
-- 🌐 **GDPR** (Europa) e **LGPD** (Brasil) buscam **proteger a privacidade** na era digital.  
-- 📌 **Diferencial da LGPD**: ANPD como órgão regulador e adaptação ao cenário brasileiro.  
-- 💡 **Chave**: Proteção de dados é uma **exigência legal** e um **compromisso ético**.  
-
-
+# 🔚 **Conclusion**  
+- 🌐 **GDPR** (Europe) and **LGPD** (Brazil) aim to **protect privacy** in the digital age.  
+- 📌 **LGPD’s distinction**: ANPD as regulator and adaptation to Brazil’s context.  
+- 💡 **Key takeaway**: Data protection is a **legal requirement** and an **ethical commitment**.  
